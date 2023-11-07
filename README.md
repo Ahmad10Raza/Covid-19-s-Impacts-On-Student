@@ -6,6 +6,8 @@
 
 This repository contains the research findings and data analysis related to the impact of COVID-19 on education, social life, and mental health of students in the Delhi National Capital Region (NCR). The study is based on a cross-sectional survey conducted with a sample size of 1182 students from various age groups and educational institutions.
 
+![impacts](https://github.com/Ahmad10Raza/Covid-19-s-Impacts-On-Student/blob/master/imp.png)
+
 ## Table of Contents
 
 - [Dataset](#dataset)
